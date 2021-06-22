@@ -8,7 +8,7 @@ Guarding Fairy Tale Town Game is a fun shooting game designed for preschoolers. 
 
 Demo Video
 
-Youtube link:
+Youtube link: https://youtu.be/5VJPiwAAb9Y
 
 2.Game design process
 
