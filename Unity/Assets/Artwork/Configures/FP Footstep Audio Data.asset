@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4caf1aa284069274eb0bcaec7d865470, type: 3}
+  m_Name: FP Footstep Audio Data
+  m_EditorClassIdentifier: 
+  FootstepAudios:
+  - Tag: Dirt
+    AudioClips:
+    - {fileID: 8300000, guid: 207fbca36c5967245bb0a47fd5ec0fab, type: 3}
+    - {fileID: 8300000, guid: 95b2a5a5cf7293b459ed9f7b70358ebb, type: 3}
+    Delay: 0
+  - Tag: Concrete
+    AudioClips:
+    - {fileID: 8300000, guid: f374e4bb0a72e1e4998b7c00e375c793, type: 3}
+    - {fileID: 8300000, guid: cfd281a9e64c1264b9f2b42fb9096a9e, type: 3}
+    - {fileID: 8300000, guid: 4bfe0f71ce2f2aa459fe0c0e9640762c, type: 3}
+    - {fileID: 8300000, guid: 03da0528f7ce83849b2b517a14f35226, type: 3}
+    - {fileID: 8300000, guid: 0e3bc1a5cab232541a630796f716956a, type: 3}
+    - {fileID: 8300000, guid: 2e100a08b43f225439751a5649eb08c6, type: 3}
+    - {fileID: 8300000, guid: a2f06c829e62c9d49b6dc43e02376f2b, type: 3}
+    - {fileID: 8300000, guid: 261aaa6d499b36540b86ff9e9ca9d79d, type: 3}
+    - {fileID: 8300000, guid: be00c245d1162564380e0441ab3367ba, type: 3}
+    Delay: 0
+  - Tag: Grass
+    AudioClips:
+    - {fileID: 8300000, guid: cfed1eac83b1eee45acab81d2622107a, type: 3}
+    - {fileID: 8300000, guid: a32bce817feae014bb366887ae7f9f67, type: 3}
+    Delay: 0
+  - Tag: Wood
+    AudioClips:
+    - {fileID: 8300000, guid: 44919c05dd8bad240ac019bf2e145056, type: 3}
+    - {fileID: 8300000, guid: 6445042f6f5c9244da14ee43ebf72100, type: 3}
+    - {fileID: 8300000, guid: 895885e7edfcb924198c4aa09f252e2e, type: 3}
+    - {fileID: 8300000, guid: 19378c332da61804ebb6a2fc48503b0f, type: 3}
+    - {fileID: 8300000, guid: 9ea60a2cefdc97e4a938bc4d15df8094, type: 3}
+    - {fileID: 8300000, guid: 5b734edf4cee0084881a5c3e57776085, type: 3}
+    - {fileID: 8300000, guid: 8a7d59e693dd01640b97bf08a236b192, type: 3}
+    Delay: 5
+  - Tag: Water
+    AudioClips:
+    - {fileID: 8300000, guid: d323f962cb9a771429839fd692c4a1d4, type: 3}
+    - {fileID: 8300000, guid: a72b6bd41569d424f83de5d5857cee91, type: 3}
+    - {fileID: 8300000, guid: 2125ed3ad92f16341b38c9b4ae035400, type: 3}
+    - {fileID: 8300000, guid: d8f710ae26585ec4588ce54c6b0f617a, type: 3}
+    - {fileID: 8300000, guid: d4bf1214a23e4a54da9d8fa45fe95299, type: 3}
+    - {fileID: 8300000, guid: 5513cd6750bb75b44a1d8d633b607d4d, type: 3}
+    - {fileID: 8300000, guid: 368650ba2c2fece408e54ccd8de96336, type: 3}
+    - {fileID: 8300000, guid: e54534ca0eb7b644a91b71f40fa3c3f8, type: 3}
+    Delay: 0
+  - Tag: Gravel
+    AudioClips:
+    - {fileID: 8300000, guid: f43ed21d73d428a4d920790872518c1b, type: 3}
+    - {fileID: 8300000, guid: bfa2b77765af1a548bf7a0ad0579f9e9, type: 3}
+    - {fileID: 8300000, guid: 5c0decb2da1776248b2f60495d9d94ed, type: 3}
+    - {fileID: 8300000, guid: 3c49a3bf3607b1540a339d4134ebd7b8, type: 3}
+    - {fileID: 8300000, guid: 2ab4c1a3b5cf47c44bcb060ef0a25ceb, type: 3}
+    - {fileID: 8300000, guid: e3d04ecf9551d4d42a26836477f6148f, type: 3}
+    - {fileID: 8300000, guid: 3bbd263523f20ff47823cb760e570824, type: 3}
+    - {fileID: 8300000, guid: c0f0f54d6dbe33343819e9db0bc623e9, type: 3}
+    - {fileID: 8300000, guid: aeabd8143a4ca5d45a59499fcc43a0f8, type: 3}
+    - {fileID: 8300000, guid: 897e16acd10b46e4f871e1dd59e85278, type: 3}
+    - {fileID: 8300000, guid: ce6412b62892baa49b5c48bee41ed559, type: 3}
+    - {fileID: 8300000, guid: 974765112c9d38442a3cd16dba4b4053, type: 3}
+    Delay: 0
