@@ -6,6 +6,10 @@
 
 Guarding Fairy Tale Town Game is a fun shooting game designed for preschoolers. Pre-school children are active and have a low level of cognition of things. At this period, children learn through direct experience or games to achieve the best results. I designed this Unity first-person shooter game inspired by the fairy tale "Guardian Homeland". I hope this game will help children develop brave character and independent problem-solving thinking.
 
+Demo Video
+
+Youtube link:
+
 2.Game design process
 
 ![images](https://github.com/lanxin01/S3-image/blob/main/%E6%88%AA%E5%B1%8F2021-06-21%20%E4%B8%8B%E5%8D%885.49.30.png)
