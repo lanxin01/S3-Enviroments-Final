@@ -27,7 +27,7 @@ Compared to different terrains, different footstep sounds are produced. Each ter
 
 5.AI: Completed random movement and generation & Go On Patrol.
 
-6.Props: Skybox and map have been added.
+6.Props: Skybox and map.
 
 Summary
 The game development process is basically smooth, and time is mainly spent on the production of the protagonist, but some problems have also been encountered. AI patrols sometimes get stuck, changing to a different floor rendering and then malfunctioning. For weapon aiming, it was originally planned to add a scope, because the efficiency is not high and only naked aiming. In the original script design, the bullet mark effect of bullet hits, switching pistols and throwing grenades was missing. I learned a lot during the development of the game this time, and I hope to make more progress in the future.
