@@ -1,6 +1,6 @@
 # S3-Enviroments-Final
 
-# Unity game - Guarding the Fairy Tale Town
+# Unity Game - Guarding the Fairy Tale Town
 
 1.Description
 
