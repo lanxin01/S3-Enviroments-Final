@@ -16,13 +16,17 @@ Youtube link: https://youtu.be/NHu4BXlsYRc
 
 2.Game design process
 
-![images](https://github.com/lanxin01/S3-image/blob/main/%E6%88%AA%E5%B1%8F2021-06-22%20%E4%B8%8B%E5%8D%886.05.34.png)
+![images](https://github.com/lanxin01/S3-Enviroments-Final/blob/main/Game%20images/%E6%88%AA%E5%B1%8F2021-06-23%20%E4%B8%8B%E5%8D%8811.34.06.png)
 
 Movement:
 Provide WSAD movement for the character, the movement speed is 4, the speed is 8 when running, and the speed is 2 when squatting. (There is an unresolved bug here. While pressing W, press A and D, the speed will change to 10, resulting in a disguised acceleration.) FP Character Controller Movement. Then there is also lock the camera up and down to allow the viewing angle It is more in line with "people" & FP Mouse Look (in the later learning video, it is found that Unity has its own character movement footsteps & Standard Assets.) The speed of the sound feedback of the movement is also adjusted according to the speed range of 2-10.
 
 3.Model: 
-The movement of the character will be switched according to the value of the speed range 2 to 10 (the movement of the model is also adjusted in detail with respect to the feedback of footsteps to achieve a step-by-step movement, so that the sound and the movement match) There are also changes in the animation &AK47-Animator 1. Firearms will produce sparks, bullets and shells will pop out of animation effects &Assault Rifle. While the firearm animation is running, the corresponding sound is matched to make it more realistic and experience better. The bullet uses collision trigger damage, and the bullet will disappear after 3s &Bullet. (Because it disappears when the collision is not pre-added, it is estimated that the effect of two birds with one stone can be achieved).
+The movement of the character will be switched according to the value of the speed range 2 to 10 (the movement of the model is also adjusted in detail with respect to the feedback of footsteps to achieve a step-by-step movement, so that the sound and the movement match) There are also changes in the animation &AK47-Animator 1. 
+
+![images](https://github.com/lanxin01/S3-Enviroments-Final/blob/main/Game%20images/%E6%88%AA%E5%B1%8F2021-06-23%20%E4%B8%8B%E5%8D%8811.22.16.png)
+
+Firearms will produce sparks, bullets and shells will pop out of animation effects &Assault Rifle. While the firearm animation is running, the corresponding sound is matched to make it more realistic and experience better. The bullet uses collision trigger damage, and the bullet will disappear after 3s &Bullet. (Because it disappears when the collision is not pre-added, it is estimated that the effect of two birds with one stone can be achieved).
 
 4.Terrain: 
 Compared to different terrains, different footstep sounds are produced. Each terrain footstep has 4 similar footsteps, making the footstep sounds more realistic and vivid.&Player Footstep Listener&FP Footstep Audio Data.
