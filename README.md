@@ -10,6 +10,10 @@ Demo Video
 
 Youtube link: https://youtu.be/5VJPiwAAb9Y
 
+Presentation Video
+
+Youtube link: https://youtu.be/NHu4BXlsYRc
+
 2.Game design process
 
 ![images](https://github.com/lanxin01/S3-image/blob/main/%E6%88%AA%E5%B1%8F2021-06-22%20%E4%B8%8B%E5%8D%886.05.34.png)
